@@ -3,3 +3,4 @@ add 修改加入書籤
 commit 記錄索引的狀態
 pull 取得遠端數據庫的內容
 
+呵呵
